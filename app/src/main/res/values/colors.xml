@@ -2,14 +2,14 @@
 <resources>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="green_500">30E291</color>
-    <color name="green_600">23C175</color>
-    <color name="green_700">237950</color>
+    <color name="green_500">#30E291</color>
+    <color name="green_600">#23C175</color>
+    <color name="green_700">#237950</color>
 
-    <color name="navy_500">425563</color>
-    <color name="navy_600">263D4F</color>
-    <color name="navy_700">2C3942</color>
+    <color name="navy_500">#425563</color>
+    <color name="navy_600">#263D4F</color>
+    <color name="navy_700">#2C3942</color>
 
-    <color name="black">494949</color>
-    <color name="red">EF5F5F</color>
+    <color name="black">#494949</color>
+    <color name="red">#EF5F5F</color>
 </resources>

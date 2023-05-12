@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.RingRing" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <style name="Theme.RingRing" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/green_500</item>
         <item name="colorPrimaryVariant">@color/green_700</item>
@@ -13,5 +13,12 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+
+        <item name="android:fontFamily">@font/suit</item>
+
+        <item name="btn_main_bg">@color/green_500</item>
+        <item name="btn_main_txt_color">@color/white</item>
+
+        <item name="android:buttonStyle">@style/btn_main_style</item>
     </style>
 </resources>
